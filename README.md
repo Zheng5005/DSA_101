@@ -5,9 +5,9 @@ Is a repository meant for anyone that wants to learn Data Structures and Algorit
 The goal is to have multiple languages in order to smooth the way for anyone that stumbles with this repository
 
 Languages included:
-    -Python
+- Python
 
 Possible languages:
-    -Java
-    -Javascript
-    -Go
+- Java
+- Javascript
+- Go

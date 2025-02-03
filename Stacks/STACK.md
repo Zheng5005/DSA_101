@@ -16,7 +16,7 @@ Stacks can be used to:
     -Backtracking algorithms (maze, file directories)
     -Calling functions (call stack)
 
-## Are there any drawbacks?
+## Drawbacks
     -Restriction of size in Stack is a drawback and if they are full, you cannot add any more elements to the stack.
     -Stacks do not provide fast access to elements other than the top element.
     -Stacks do not support efficient searching, as you have to pop elements one by one until you find the element you are looking for.
