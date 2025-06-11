@@ -6,8 +6,5 @@ The goal is to have multiple languages in order to smooth the way for anyone tha
 
 Languages included:
 - Python
-
-Possible languages:
-- Java
-- Javascript
 - Go
+- Javascript
