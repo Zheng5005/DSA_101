@@ -8,3 +8,16 @@ Languages included:
 - Python
 - Go
 - Javascript
+
+## Big O Notation
+Thoughout the repository you'll see terms like Linear complexity, and notation like O(n), but what does it mean?
+
+this is Big O notation, this describes the performance of an Algorithm as the amount of data increases, it counts the necesary steps in order to run a Algorithms
+
+The notations are: (from fastest to lowest)
+- O(1) -> Meanig constant time
+- O(log n) -> Logarithmic time
+- O(n) -> Linear Time
+- O(n log n) -> Quasilinear time
+- O(n^2) -> Quadratic time
+- O(n!) -> Factorial time
