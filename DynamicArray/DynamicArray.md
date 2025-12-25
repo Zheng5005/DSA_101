@@ -1,4 +1,4 @@
-## What is a DynamicArraay?
+## What is a DynamicArray?
 Is an array with a dynamic size that can be change depending of our necesities
 
 ## What's the complexity?

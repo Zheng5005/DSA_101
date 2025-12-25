@@ -1,4 +1,3 @@
-
 ## What is a LinkedList?
 They have a big advantage, they can add or remove elements much faster then an array for example, they have a "data" and an "address" part, the data bbeing the information stored, and the address points to the next set of "data" and "address" of the list
 
