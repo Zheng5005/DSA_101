@@ -21,3 +21,8 @@ The notations are: (from fastest to lowest)
 - O(n log n) -> Quasilinear time
 - O(n^2) -> Quadratic time
 - O(n!) -> Factorial time
+
+## Recursion
+Another concept you'll see is recursion, is commonly used with advance sorting Algorithms and navigating trees.
+
+Recursion apply the result of a procedure, to a procedure, a recursive method calls itself, this divides a problem into sub-problems of the same type as the original.
