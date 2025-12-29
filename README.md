@@ -15,7 +15,7 @@ Thoughout the repository you'll see terms like Linear complexity, and notation l
 this is Big O notation, this describes the performance of an Algorithm as the amount of data increases, it counts the necesary steps in order to run a Algorithms
 
 The notations are: (from fastest to lowest)
-- O(1) -> Meanig constant time
+- O(1) -> Meaning constant time
 - O(log n) -> Logarithmic time
 - O(n) -> Linear Time
 - O(n log n) -> Quasilinear time
